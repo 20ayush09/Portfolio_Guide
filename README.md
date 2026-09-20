@@ -6,19 +6,20 @@ I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and 
 - [Excel](#excel)
 - [Power BI](#power-bi)
 
-# Excel
-
-| Project Link | Area of Analysis | Tools | Project Description |
-|---|---|---|---|
-| 📊 [EXCEL PROJECT NAME](LINK-TO-PROJECT-FOLDER-OR-FILE) | [e.g. Financial analysis / Budgeting] | [e.g. Pivot Tables, XLOOKUP, Charts] | [What you did, how you did it, and what you found. 1-2 sentences.] |
-
----
 
 # Power BI
 
 | Project Link | Area of Analysis | Project Description | Dashboard Link |
 |---|---|---|---|
-| 📈 [POWER BI PROJECT 1 NAME](LINK-TO-PROJECT-FOLDER) | [e.g. Sales analysis] | [What data you used, what you built, and what insights you found.] | [Dashboard](LINK-IF-PUBLISHED) |
-| 💹 [POWER BI PROJECT 2 NAME](LINK-TO-PROJECT-FOLDER) | [e.g. Financial performance] | [What data you used, what you built, and what insights you found.] | [Dashboard](LINK-IF-PUBLISHED) |
+| 📈 [Olist superstore analysis](olist-analytics-dashboard) | [Customer Behaviour Analysis & Sales Performance Analysis] | [Built an end-to-end Power BI ecosystem using advanced DAX modeling (CALCULATE, VAR, context transitions) to transform raw e-commerce data into strategic executive dashboards. The project encompassed customer cohort analysis, dynamic segmentation, and dynamic measure engineering to isolate retention lifecycles and first-order touchpoints. The final deployment tracks core business vectors including revenue trends, delivery delay classifications, payment preferences, and consumer sentiment metrics.] | 
+| 💹 [Mobile Phone Sales Analysis ](power-bi-sales-analytics-dashboard) | [Sales Analysis] | [Built an end-to-end Power BI sales dashboard tracking $769M in revenue using optimized DAX modeling to evaluate mobile device market performance. The project applied multi-dimensional modeling across geographic, temporal, and product hierarchies to isolate regional transaction velocity. The final deployment maps critical business metrics including city-level sales, monthly trends, payment preferences, and customer ratings.] | 
+
+# Excel
+
+| Project Link | Area of Analysis | Tools | Project Description |
+|---|---|---|---|
+| 📊 [SuperStore Analysis](sales-performance-analytics-dashboard) | [Financial Analysis and Sales Performance Management.] | [Pivot Tables,Power Pivot,Dynamic Charts] | **Project Overview**: Developed a comprehensive financial and sales analysis dashboard for a major retail store by using Power Query for data transformation and Power Pivot for data modeling.**Methodology:** Utilized dynamic Pivot Tables and advanced Excel formulas to track, clean, and visualize multi-year transactional trends from 2015 to 2018.Key **Findings:** Successfully isolated core performance drivers, revealing 2,261,537 in Total Revenue across 9,800 units, with California identified as the top-contributing market and Binders as the volume leader. |
+
+---
 
 ---
