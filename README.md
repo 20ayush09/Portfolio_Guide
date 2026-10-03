@@ -5,9 +5,7 @@ I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and 
 ## 📚 Table of Contents
 - [Excel](#excel)
 - [Power BI](#power-bi)
-
-
-# Power BI
+- [Automation](#Automation)
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -20,6 +18,12 @@ I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and 
 | Project Link | Area of Analysis | Tools | Project Description |
 |---|---|---|---|
 | 📊 [SuperStore Analysis](https://github.com/20ayush09/sales-performance-analytics-dashboard)| [Financial Analysis and Sales Performance Management.] | [Pivot Tables, Power Pivot, Dynamic Charts] | **Project Overview**: Developed a comprehensive financial and sales analysis dashboard for a major retail store by using Power Query for data transformation and Power Pivot for data modeling.**Methodology:** Utilized dynamic Pivot Tables and advanced Excel formulas to track, clean, and visualize multi-year transactional trends from 2015 to 2018.Key **Findings:** Successfully isolated core performance drivers, revealing 2,261,537 in Total Revenue across 9,800 units, with California identified as the top-contributing market and Binders as the volume leader. |
+
+# Automation
+
+| Project Link | Area of Analysis | Project Description |
+|---|---|---|
+| 🤖 [Restaurant Billing & Feedback Automation](https://github.com/20ayush09/restaurant-billing-feedback-automation) | [Business Process Automation & Customer Feedback Management] | [Built an end-to-end trigger-driven restaurant automation system using Google Apps Script, Google Sheets, Google Forms, Claude,and Gmail. Automated invoice delivery, feedback collection, reminders, customer-satisfaction scoring, low-score escalation, owner alerts, and email-reply detection. Implemented concurrency control, idempotent setup, state management, quota protection, HTML escaping, and missed-event reconciliation.] |
 
 ---
 
