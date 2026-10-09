@@ -7,6 +7,8 @@ I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and 
 - [Power BI](#power-bi)
 - [Automation](#Automation)
 
+# power-bi
+
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 📈 [Olist superstore analysis](https://github.com/20ayush09/olist-analytics-dashboard) | [Customer Behaviour Analysis & Sales Performance Analysis] | [Built an end-to-end Power BI ecosystem using advanced DAX modeling (CALCULATE, VAR, context transitions) to transform raw e-commerce data into strategic executive dashboards. The project encompassed customer cohort analysis, dynamic segmentation, and dynamic measure engineering to isolate retention lifecycles and first-order touchpoints. The final deployment tracks core business vectors including revenue trends, delivery delay classifications, payment preferences, and consumer sentiment metrics.] |
