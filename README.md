@@ -1,39 +1,183 @@
-# 🗺 Ayush Agarwal's Portfolio
+<div align="center">
 
-I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and data analysis. This page is a summary of my projects in Excel, Power BI, SQL and automation.
+# Ayush Agarwal
 
-## 📚 Table of Contents
-- [SQL](#sql)
-- [Power BI](#power-bi)
-- [Excel](#excel)
-- [Automation](#Automation)
+**Finance & Data Analytics Portfolio**
+ACCA Student · MA Economics Student
 
-# SQL
+[Tech](#tech) &nbsp;·&nbsp; [Finance](#finance) &nbsp;·&nbsp; [Contact](#contact)
 
-| Project Link | Area of Analysis | Project Description |
-|---|---|---|
-| 🏗️ [Enterprise Data Warehouse](https://github.com/20ayush09/enterprise-data-warehouse) | [Data Warehousing & Data Engineering] | [Built an end-to-end data warehouse on Microsoft SQL Server, integrating CRM and ERP data from 6 source CSV files using Medallion Architecture (Bronze, Silver, Gold). Automated full-load batch pipelines with T-SQL stored procedures and BULK INSERT, with per-table load timing and TRY...CATCH error reporting. Cleansed and standardized data in the Silver layer (date conversion, sales and price recalculation, value standardization, control-character removal, LEAD() product history) with audit columns and indexing. Delivered three Gold views (customer, product, sales) that join CRM and ERP data for reporting and analysis.] |
+</div>
 
-# power-bi
+<br>
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-| 📈 [Olist superstore analysis](https://github.com/20ayush09/olist-analytics-dashboard) | [Customer Behaviour Analysis & Sales Performance Analysis] | [Built an end-to-end Power BI ecosystem using advanced DAX modeling (CALCULATE, VAR, context transitions) to transform raw e-commerce data into strategic executive dashboards. The project encompassed customer cohort analysis, dynamic segmentation, and dynamic measure engineering to isolate retention lifecycles and first-order touchpoints. The final deployment tracks core business vectors including revenue trends, delivery delay classifications, payment preferences, and consumer sentiment metrics.] |
-| 💹 [Mobile Phone Sales Analysis ](https://github.com/20ayush09/power-bi-sales-analytics-dashboard)| [Sales Analysis] | [Built an end-to-end Power BI sales dashboard tracking $769M in revenue using optimized DAX modeling to evaluate mobile device market performance. The project applied multi-dimensional modeling across geographic, temporal, and product hierarchies to isolate regional transaction velocity. The final deployment maps critical business metrics including city-level sales, monthly trends, payment preferences, and customer ratings.] | 
-| 💹 [InstaCart Performance Analysis ](https://github.com/20ayush09/instacart-market-basket-analysis)| [Performance Analysis] | [Built a multi-page Power BI dashboard analyzing 206K+ customers and 3M+ orders. Implemented DAX formulas for customer behavior metrics, churn risk scoring, reorder patterns, and purchase timing analysis. Delivered a comprehensive business report with actionable insights on customer segmentation and retention strategies. | 
-
-# Excel
-
-| Project Link | Area of Analysis | Tools | Project Description |
-|---|---|---|---|
-| 📊 [SuperStore Analysis](https://github.com/20ayush09/sales-performance-analytics-dashboard)| [Financial Analysis and Sales Performance Management.] | [Pivot Tables, Power Pivot, Dynamic Charts] | **Project Overview**: Developed a comprehensive financial and sales analysis dashboard for a major retail store by using Power Query for data transformation and Power Pivot for data modeling.**Methodology:** Utilized dynamic Pivot Tables and advanced Excel formulas to track, clean, and visualize multi-year transactional trends from 2015 to 2018.Key **Findings:** Successfully isolated core performance drivers, revealing 2,261,537 in Total Revenue across 9,800 units, with California identified as the top-contributing market and Binders as the volume leader. |
-
-# Automation
-
-| Project Link | Area of Analysis | Project Description |
-|---|---|---|
-| 🤖 [Restaurant Billing & Feedback Automation](https://github.com/20ayush09/restaurant-billing-feedback-automation) | [Business Process Automation & Customer Feedback Management] | [Built an end-to-end trigger-driven restaurant automation system using Google Apps Script, Google Sheets, Google Forms, Claude,and Gmail. Automated invoice delivery, feedback collection, reminders, customer-satisfaction scoring, low-score escalation, owner alerts, and email-reply detection. Implemented concurrency control, idempotent setup, state management, quota protection, HTML escaping, and missed-event reconciliation.] |
+<table align="center">
+  <tr>
+    <th width="420" align="center">TECH</th>
+    <th width="420" align="center">FINANCE</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br>
+      Data engineering, analytics and automation
+      <br><br>
+      <sub>SQL &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Excel &nbsp;·&nbsp; Automation</sub>
+      <br><br>
+      <a href="#tech"><b>Explore Tech →</b></a>
+      <br><br>
+    </td>
+    <td align="center">
+      <br>
+      Financial modeling and analysis
+      <br><br>
+      <sub>Projects coming soon</sub>
+      <br><br>
+      <a href="#finance"><b>Explore Finance →</b></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## Tech
+
+*Data engineering, analytics and automation projects. Click a project to expand it.*
+
+[SQL](#sql) &nbsp;·&nbsp; [Power BI](#power-bi) &nbsp;·&nbsp; [Excel](#excel) &nbsp;·&nbsp; [Automation](#automation)
+
+### SQL
+
+<details>
+<summary><b>Enterprise Data Warehouse</b> &nbsp;·&nbsp; SQL Server, Medallion Architecture</summary>
+
+<br>
+
+**Summary:** End-to-end data warehouse that integrates CRM and ERP data into Bronze, Silver and Gold layers.
+
+**Key results**
+- 6 source files loaded into 6 raw tables, cleansed into 6 Silver tables
+- 3 Gold views (customer, product, sales) ready for reporting
+- Automated full-load pipelines with load timing and error handling
+
+**Tools:** `SQL Server` `T-SQL` `Stored Procedures` `BULK INSERT`
+
+**Repo:** [View repository →](https://github.com/20ayush09/enterprise-data-warehouse)
+
+</details>
+
+### Power BI
+
+<details>
+<summary><b>Olist Analytics Dashboard</b> &nbsp;·&nbsp; Customer behaviour and sales performance</summary>
+
+<br>
+
+**Summary:** Executive dashboards on e-commerce data covering customer cohorts, segmentation and retention.
+
+**Key results**
+- Cohort analysis and dynamic segmentation to track retention lifecycles
+- Tracks revenue trends, delivery delays, payment preferences and customer sentiment
+
+**Tools:** `Power BI` `DAX` `CALCULATE` `VAR` `Context Transition`
+
+**Repo:** [View repository →](https://github.com/20ayush09/olist-analytics-dashboard)
+
+</details>
+
+<details>
+<summary><b>Mobile Phone Sales Analysis</b> &nbsp;·&nbsp; Sales performance</summary>
+
+<br>
+
+**Summary:** Sales dashboard that evaluates mobile device market performance by geography, time and product.
+
+**Key results**
+- $769M in revenue tracked
+- City-level sales, monthly trends, payment preferences and customer ratings
+
+**Tools:** `Power BI` `DAX`
+
+**Repo:** [View repository →](https://github.com/20ayush09/power-bi-sales-analytics-dashboard)
+
+</details>
+
+<details>
+<summary><b>Instacart Performance Analysis</b> &nbsp;·&nbsp; Customer behaviour and retention</summary>
+
+<br>
+
+**Summary:** Multi-page dashboard and business report on customer behaviour and retention.
+
+**Key results**
+- 206K+ customers and 3M+ orders analyzed
+- Churn risk scoring, reorder patterns and purchase timing
+- Recommendations on customer segmentation and retention
+
+**Tools:** `Power BI` `DAX`
+
+**Repo:** [View repository →](https://github.com/20ayush09/instacart-market-basket-analysis)
+
+</details>
+
+### Excel
+
+<details>
+<summary><b>SuperStore Analysis</b> &nbsp;·&nbsp; Financial and sales performance</summary>
+
+<br>
+
+**Summary:** Financial and sales dashboard for a retail store, built on multi-year transaction data (2015 to 2018).
+
+**Key results**
+- 2,261,537 in total revenue across 9,800 units
+- California is the top-contributing market
+- Binders lead on volume
+
+**Tools:** `Power Query` `Power Pivot` `Pivot Tables` `Dynamic Charts`
+
+**Repo:** [View repository →](https://github.com/20ayush09/sales-performance-analytics-dashboard)
+
+</details>
+
+### Automation
+
+<details>
+<summary><b>Restaurant Billing & Feedback Automation</b> &nbsp;·&nbsp; Business process automation</summary>
+
+<br>
+
+**Summary:** Trigger-driven system that automates restaurant invoicing and customer feedback.
+
+**Key results**
+- Automated invoices, feedback collection, reminders and satisfaction scoring
+- Low-score escalation, owner alerts and email-reply detection
+- Built with concurrency control, idempotent setup and quota protection
+
+**Tools:** `Google Apps Script` `Google Sheets` `Google Forms` `Gmail` `Claude`
+
+**Repo:** [View repository →](https://github.com/20ayush09/restaurant-billing-feedback-automation)
+
+</details>
+
+<div align="right"><a href="#ayush-agarwal">↑ Back to top</a></div>
+
 ---
+
+## Finance
+
+*Financial work, kept separate from the technical projects.*
+
+My background is in ACCA and MA Economics. This section will showcase my finance work.
+
+**Focus areas:** `Financial Modeling` `Financial Analysis` `Quantitative Analysis`
+
+**Status:** Projects coming soon.
+
+<div align="right"><a href="#ayush-agarwal">↑ Back to top</a></div>
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ayush-agarwal-9270672bb/) &nbsp;·&nbsp; [GitHub](https://github.com/20ayush09)
