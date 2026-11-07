@@ -1,11 +1,18 @@
 # 🗺 Ayush Agarwal's Portfolio
 
-I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and data analysis. This page is a summary of my projects in Excel and Power BI.
+I'm Ayush Agarwal, an **ACCA student** building practical skills in finance and data analysis. This page is a summary of my projects in Excel, Power BI, SQL and automation.
 
 ## 📚 Table of Contents
-- [Excel](#excel)
+- [SQL](#sql)
 - [Power BI](#power-bi)
+- [Excel](#excel)
 - [Automation](#Automation)
+
+# SQL
+
+| Project Link | Area of Analysis | Project Description |
+|---|---|---|
+| 🏗️ [Enterprise Data Warehouse](https://github.com/20ayush09/enterprise-data-warehouse) | [Data Warehousing & Data Engineering] | [Built an end-to-end data warehouse on Microsoft SQL Server, integrating CRM and ERP data from 6 source CSV files using Medallion Architecture (Bronze, Silver, Gold). Automated full-load batch pipelines with T-SQL stored procedures and BULK INSERT, with per-table load timing and TRY...CATCH error reporting. Cleansed and standardized data in the Silver layer (date conversion, sales and price recalculation, value standardization, control-character removal, LEAD() product history) with audit columns and indexing. Delivered three Gold views (customer, product, sales) that join CRM and ERP data for reporting and analysis.] |
 
 # power-bi
 
