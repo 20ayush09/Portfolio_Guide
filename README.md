@@ -168,7 +168,7 @@ ACCA Student · MA Economics Student
 
 *Financial work, kept separate from the technical projects.*
 
-My background is in ACCA and MA Economics. This section will showcase my finance work.
+My background is in ACCA . This section will showcase my finance work.
 
 **Focus areas:** `Financial Modeling` `Financial Analysis` `Quantitative Analysis`
 
